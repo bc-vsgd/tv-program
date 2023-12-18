@@ -6,7 +6,7 @@ Fourth part: [React](https://react.dev/blog/2023/03/16/introducing-react-dev).
 
 In this exercise: retrieve data from JSON array and diplay with `.map` method, conditionnal display, `props` destructuring.
 
-Watch the result on [Netlify].
+Watch the result on [Netlify](https://hilarious-marigold-8c3dde.netlify.app/).
 
 # React + Vite
 
